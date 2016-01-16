@@ -3,6 +3,9 @@
 Here's a bash script that sets up the example:
 
 ```bash
+# Use node package manager to install browserify
+npm install -g browserify
+
 # Create a directory structure.
 mkdir pgs
 mkdir js
